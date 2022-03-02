@@ -1,0 +1,31 @@
+{
+    "firstChoice":[
+        {
+            "id": 1,
+            "answer": "a",
+            "text":"How do you know who I am?, you feel like you want to fight, punch him in the face and scream in anger. You been so careful! You worked so hard for this nice and good life. Whoever betrayed you, whatever happen that he knows now who you really are - you need to fix this."
+        },
+        {
+            "id": 1,
+            "answer": "b",
+            "text":"'What do you want?', you don't care about how he found out, you just want to be safe and if you can find out how to keep him quiet, you will do it."
+        }
+    ],
+    "secondChoice": [
+        {
+            "id": 3,
+            "answer": "a",
+            "text":"'Yes.' You take the piece of paper and heavy pouch of gold, and hide them inside one of your pockets. You leave the tavern with hard face."
+        },
+        {
+            "id": 3,
+            "answer": "b",
+            "text":"'No'. You sit back and cross your arms on your chest. You try to look unbothered and confident, but inside you know the truth: you didn't become a doctor, you didn't risk all of that to hurt innocent and ill, to make people suffer. You will find a way to deal with this problem. You always do, so why this situation would be different?"
+        },
+        {
+            "id": 3,
+            "answer": "c",
+            "text":"You don't say anything, but you do take the recipe from the man hand. He smiles at you and pushes the pouch with gold towards you. For a moment you hesitate, but then take the pouch as well. Whatever happen, the final decision depends to you."
+        }
+    ]
+}

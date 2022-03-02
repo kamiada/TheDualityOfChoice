@@ -1,0 +1,56 @@
+{
+    "staticText_introduction": [
+        {
+            "id": 0,
+            "title": "Introduction",
+            "text": "It's year 1329, Verona. Your name is Lucia Fiori and your family died during a plague. The summer was wet and hot and the fever took from your everyone. But you managed to survive. Better even. Seeing the suffering of people who you cared about made you realise that you really want to do one thing - become a doctor. But, that's not easy. Women are not allowed to study, especially at university. And you may end up accused of witchcraft. Still, you manage to help in the local hospital and one day very risky idea comes to your mind. That day, Lucia Fiori dies and new person, young man called Luca Specchio appears instead. So here you are. In male clothes, cut short hair and fake deep voice, working as an assistant to a famous doctor. You keep your head low, but life is good and you appreciate every day of your new life. Until today."
+        },
+        {
+            "id": 1,
+            "title": "Introduction",
+            "text": "It's a deep night, when the knock to the door wakes you and your master up. Behind them they are three people in dark cloaks with golden masks on. They seems to be scared, one of them pushes you brutally away and charges into a room, helping his comrade. The other man is hurt, something is wrong with him, and when they lay him on the kitchen table, you can see his pale face, wet from the rain and sweat hair and eyes moving rapidly behind the lids. Neither you or your master knows who these people are. One of them turn out to be a woman, clearly of noble birth, with soft hands and pleading look in her eyes. 'Help us', she begs the doctor. 'Our companion was wounded and now the wound is infected'."
+        },
+        {
+            "id": 2,
+            "title": "Introduction",
+            "text": "The Hippocratic Oath says that doctors should benefit the ill, so both you and your master get into work, helping those strange people and wounded man. When the sky becomes gray from the dawn, the patient is stable and his breath is peaceful. Now you can see his handsome face relaxed and the two people with him nervously ask if they can take him with them. Your master says no: his wounds are cleaned now, but he needs to lay for another few days and heal, otherwise they will open again and he will die. The woman has tears in her eyes when she asks you two to not mention to anyone that this man is here, she also begs not to mention to anyone about this incident. You two promise her that to keep her calm. The gold she stuffs into your masters hand seals the deal and buys his loyalty. You may also see some of it, maybe a coin or two. Who knows. When they leave, you hear the man in the golden mask calling the woman 'Sua Altezza'..."
+        }
+    ],
+    "staticText_gameplay": [
+        {
+            "id": 0,
+            "title": "Gameplay",
+            "text": "A day later you find yourself drinking wine in a local taverna. The mysterious patient it's still sleeping in your master house and you are assigned to tend to him, when needed, but for now you have a short and well deserved break. The wine is cheap and has soury taste, but you feel like your body relaxes. You don't have many friends, since you are afraid of getting close with others due to the nature of your secret. Therefore, when a tall man with dark brown hair sat across from you, you feel like your heart stops for a moment. The man has golden rings on his thick fingers and his hands are almost the size of your head. You don't know him, but you can feel the air of authority and power around him. You are afraid, but you show nothing on your face."
+        },
+        {
+            "id": 1, 
+            "title":"Gameplay",
+            "text":"'You may not know me' - says the mysterious man. 'But I know you'. And then he smiles and whispers the name which you haven't heard in ages. 'Sweet Lucia Fiori'. Your heart stops for a second and all the blood disappears from your face, leaving it white like a milk. You want to run, hide, but you cannot move. 'Smart girl' - says a man. 'You been hiding your real self well enough, but I am master of secrets in this city and I know everything'. You want to ask him 'How?', but instead you say..."
+        },
+        {
+            "id": "1a", 
+            "title":"Gameplay",
+            "text":"'Is that really so important? I told you. I am master of the secret and every secret in Verona belongs to me. Even such a precious and tightly kept secret as your, my dear Lucia. Now let's get into business'"
+        },
+        {
+            "id": "1b", 
+            "title":"Gameplay",
+            "text":"'Good girl, you know how to do business. No time wasted.'"
+        },
+        {
+            "id": 2,
+            "title":"Gameplay",
+            "text":"I want you to kill a man, who was brought at night to your master house. I will pay you in gold and your secret will be forever safe with me. Here is the recipe for the poison, I am sure that your master will have all the ingredients needed for it' A smile quickly appears on his face, like he wanted to say something more about it. Is your master involved in some poisoning case? That cannot be. He would be decapitated in front of the blood thirsty mob, if somebody would find out. But from the other side, the poisoning wasn't anything new in the Italian cities."
+        },
+        {
+            "id": 3,
+            "title":"Gameplay",
+            "text":"'Will you do that for me?' - asks the man. In one hand he holds now piece of paper with the recipe. The choice is yours..."
+        },
+        {
+            "id": "3b", 
+            "title":"Gameplay",
+            "text":"The man face looks furious when he hears your answer. 'You will regret that' - he says and his voice is thick from anger. When he rapidly leaves, you wait a bit then leave the tavern. You shake a little bit, when you walk towards your master's house and you feel how dry your mouth is, even if just not long time ago you had some wine. But you don't walk too far. Just before the doors of your master house you feel something cold and then hot. You look at your hands and you realise that they are covered in blood. You want to scream, but you cannot. You cannot catch the air, the horrible whiz comes out from your mouth. You fall to your knees but barely notice the pain over the darkness creeping into your consciousness, the feeling that this could be it. You really just want to breath, you really just want the pain to go away, the light of the day and world of living to win. But that's not what happens. You die, there in front of your master's doors. They will surprised later to find out who you really been all this time."
+        }
+    ]
+}
