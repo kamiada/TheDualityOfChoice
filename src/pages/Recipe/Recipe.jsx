@@ -49,7 +49,10 @@ const Recipe = () => {
         </div>
       </div>
       <div className="linkHolder">
+      <nav>
       <Link className="linkToNextScreen" to="/game">Start making medicine!</Link>
+
+      </nav>
       </div>
 
     </>
