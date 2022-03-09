@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import "../pages.scss";
 import { ClickableObject } from "../../components";
-import { Final, BadEnding, GoodEnding } from "..";
 import { Table } from "../images";
 import {
   Flask,
@@ -18,7 +17,6 @@ import {
 import { Link } from "react-router-dom";
 
 const ingridientList = [];
-let chosenEnding = "";
 const Game = () => {
   const chosenObject = (ingridient) => {
     ingridientList.push(ingridient);
@@ -42,9 +40,9 @@ const Game = () => {
   return (
     <>
       <>
-        <img className="game_table" src={Table} />
-        <img className="flask" src={Flask} />
-        <div className="object_holder">
+        <img alt="table" className="game_table" src={Table} />
+        <img alt="flask" className="flask" src={Flask} />
+        <div alt="holder" className="object_holder">
         <ClickableObject
             id="RedPowder"
             onClick={() => chosenObject("RedPowder")}

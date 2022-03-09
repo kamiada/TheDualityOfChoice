@@ -6,16 +6,12 @@ import responses from "../../ChoiceTextAdventure.json";
 import useSound from "use-sound";
 import backgroundAudio from "../Audio/bensound-cute.mp3";
 import { VeronaBridge } from "../images";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 const Scene_1 = () => {
-
-
   const [id, setIdNumb] = useState(0);
   const [play] = useSound(backgroundAudio);
   const [player_choice, setChoice] = useState("");
-
-
 
   console.log(player_choice, id);
   const checkPage = () => {
@@ -51,22 +47,23 @@ const Scene_1 = () => {
       return introduction.staticText_gameplay[6].text;
     }
     if (player_choice === "3a" || player_choice === "3c") {
-        return (
-            <div>
-            <Link className="linkToNextScreen" to="/recipe">Start making medicine for your patient and decide his fate!</Link>
-            </div>
-        )
+      return (
+        <div>
+          <Link className="linkToNextScreen" to="/recipe">
+            Start making medicine for your patient and decide his fate!
+          </Link>
+        </div>
+      );
     } else
       return (
-        introduction.staticText_introduction[0].text &&
-        setIdNumb(0),
+        introduction.staticText_introduction[0].text && setIdNumb(0),
         setChoice("")
       );
   };
 
   const lastChoice = (choice) => {
-      return( setIdNumb(6), setChoice(choice));
-  }
+    return setIdNumb(6), setChoice(choice);
+  };
 
   const showChoices = () => {
     if (id === 4 && player_choice === "") {
@@ -128,7 +125,11 @@ const Scene_1 = () => {
   return (
     <div className="background">
       <div>
-        <img className="sceneImageHolder" src={checkImage()} />
+        <img
+          alt="changing pic representing the story"
+          className="sceneImageHolder"
+          src={checkImage()}
+        />
         <TextHolder intro_tex={checkPage()} />
         {showChoices()}
       </div>
