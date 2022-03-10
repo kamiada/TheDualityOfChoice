@@ -5,7 +5,7 @@ import introduction from "../../staticText.json";
 import responses from "../../ChoiceTextAdventure.json";
 import useSound from "use-sound";
 import backgroundAudio from "../Audio/bensound-cute.mp3";
-import { VeronaBridge } from "../images";
+import { VeronaBridge, Tavern, Path } from "../images";
 import { Link } from "react-router-dom";
 
 const Scene_1 = () => {
@@ -119,6 +119,12 @@ const Scene_1 = () => {
   };
 
   const checkImage = () => {
+    if (id === 3) {
+      return Tavern;
+    }
+    if (player_choice === "3b" && id === 5) {
+      return Path;
+    }
     return VeronaBridge;
   };
 
