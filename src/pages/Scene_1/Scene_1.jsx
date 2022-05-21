@@ -3,14 +3,11 @@ import "../pages.scss";
 import { TextHolder, ClickableTextChoice } from "../../components";
 import introduction from "../../staticText.json";
 import responses from "../../ChoiceTextAdventure.json";
-import useSound from "use-sound";
-import backgroundAudio from "../Audio/bensound-cute.mp3";
 import { VeronaBridge, Tavern, Path } from "../images";
 import { Link } from "react-router-dom";
 
 const Scene_1 = () => {
   const [id, setIdNumb] = useState(0);
-  const [play] = useSound(backgroundAudio);
   const [player_choice, setChoice] = useState("");
 
   console.log(player_choice, id);
