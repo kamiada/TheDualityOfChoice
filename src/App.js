@@ -13,7 +13,7 @@ function App() {
         <Route path="recipe" element={<Recipe />} />
         <Route path="game" element={<Game />} />
         <Route path="badEnding" element={<BadEnding />} />
-        <Route path="goodEnding" element={<GoodEnding />} />
+        <Route path="game/goodEnding" element={<GoodEnding />} />
         <Route path="final" element={<Final />} />
       </Routes>
     </div>
