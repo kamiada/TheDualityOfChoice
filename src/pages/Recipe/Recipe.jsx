@@ -10,13 +10,13 @@ const Recipe = () => {
           <p className="introduction_text">
             Here is the recipe from your master: <br />
             <br />
-            1. Dandelion - it's an important ingriedient of any medicine.
+            1. Dandelion - it's an important ingredient of any medicine.
             <br />
             <br />
             2. Vervain - in the right dose it's very useful for treatments.{" "}
             <br />
             <br />
-            3. Green powder of mixed hebs - helps with dealing with pain. <br />
+            3. Green powder of mixed herbs - helps with dealing with pain. <br />
             <br />
             Mix all of them in the boiling mixture which your master already
             prepared
@@ -32,13 +32,13 @@ const Recipe = () => {
             who you are: <br />
             <br />
             1. Dandelion - another dandelion? You only knew that is good for the
-            mediciations.
+            medications.
             <br />
             <br />
             2. Pokeweed berries - You know that one! Purple and sweet looking,
             are fatal for anyone who will taste them <br />
             <br />
-            3. Green powder of mixed hebs - You guess, that this will help with
+            3. Green powder of mixed herbs - You guess, that this will help with
             hiding the pain and taste of the berries. <br />
             <br />
             You will need to mix all of that in the mixture prepared by your

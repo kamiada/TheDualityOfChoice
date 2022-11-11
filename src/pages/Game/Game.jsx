@@ -16,23 +16,25 @@ import {
 } from "../../images_objects";
 import { Link } from "react-router-dom";
 
-const ingridientList = [];
+const ingredientList = [];
 const Game = () => {
-  const chosenObject = (ingridient) => {
-    ingridientList.push(ingridient);
-    let removeMe = document.getElementById(ingridient);
+  const chosenObject = (ingredient) => {
+    ingredientList.push(ingredient);
+    let removeMe = document.getElementById(ingredient);
     removeMe.disabled = true;
     removeMe.style.visibility = "hidden";
-    return console.log("clicked");
+    return ingredientList;
   };
   const getEnding = () => {
-    if (ingridientList.includes("Berries")) {
+    console.log(ingredientList);
+    console.log("clicked");
+    if (ingredientList.includes("Berries")) {
       console.log("bad");
 
       return "/badEnding";
     }
-    if (ingridientList.includes("Vervain")) {
-      console.log("nere");
+    if (ingredientList.includes("Vervain")) {
+      console.log("here");
       return "goodEnding";
     } else return "/final";
   };
@@ -91,7 +93,7 @@ const Game = () => {
         </div>
       </>
       <div className="link_holder">
-        <Link params className="finished" to={() => getEnding()}>
+        <Link params="true" className="finished" to={getEnding()}>
           Done!
         </Link>
       </div>
