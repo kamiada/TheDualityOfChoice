@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TheDualityOfChoice/static/css/main.f94365d1.css",
-    "main.js": "/TheDualityOfChoice/static/js/main.8d652321.js",
+    "main.css": "/TheDualityOfChoice/static/css/main.56bb9bf5.css",
+    "main.js": "/TheDualityOfChoice/static/js/main.fca90461.js",
     "static/js/787.2a52b1e0.chunk.js": "/TheDualityOfChoice/static/js/787.2a52b1e0.chunk.js",
     "static/media/tavern.png": "/TheDualityOfChoice/static/media/tavern.8ebfbfa7841e6f33de16.png",
     "static/media/backgroundTable.png": "/TheDualityOfChoice/static/media/backgroundTable.b0529c1b89ed71c69889.png",
@@ -23,12 +23,12 @@
     "static/media/flask.png": "/TheDualityOfChoice/static/media/flask.fa2f3f5ca12ac1bd3b8a.png",
     "static/media/mak.png": "/TheDualityOfChoice/static/media/mak.ae22b246d2c042d9a405.png",
     "index.html": "/TheDualityOfChoice/index.html",
-    "main.f94365d1.css.map": "/TheDualityOfChoice/static/css/main.f94365d1.css.map",
-    "main.8d652321.js.map": "/TheDualityOfChoice/static/js/main.8d652321.js.map",
+    "main.56bb9bf5.css.map": "/TheDualityOfChoice/static/css/main.56bb9bf5.css.map",
+    "main.fca90461.js.map": "/TheDualityOfChoice/static/js/main.fca90461.js.map",
     "787.2a52b1e0.chunk.js.map": "/TheDualityOfChoice/static/js/787.2a52b1e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f94365d1.css",
-    "static/js/main.8d652321.js"
+    "static/css/main.56bb9bf5.css",
+    "static/js/main.fca90461.js"
   ]
 }
