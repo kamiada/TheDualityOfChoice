@@ -9,12 +9,12 @@ function App() {
     <div className="App">
         <Routes>
         <Route path="/TheDualityOfChoice" element={<Menu />} />
-        <Route path="scene" element={<Scene_1 />} />
-        <Route path="recipe" element={<Recipe />} />
-        <Route path="game" element={<Game />} />
-        <Route path="badEnding" element={<BadEnding />} />
-        <Route path="goodEnding" element={<GoodEnding />} />
-        <Route path="final" element={<Final />} />
+        <Route path="/scene" element={<Scene_1 />} />
+        <Route path="/recipe" element={<Recipe />} />
+        <Route path="/game" element={<Game />} />
+        <Route path="game/badEnding" element={<BadEnding />} />
+        <Route path="game/goodEnding" element={<GoodEnding />} />
+        <Route path="game/final" element={<Final />} />
       </Routes>
     </div>
   );

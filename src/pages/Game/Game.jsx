@@ -28,11 +28,11 @@ const Game = () => {
   };
   const getEnding = () => {
     if (ingredientList.includes("Berries")) {
-      return "/badEnding";
+      return "badEnding";
     }
     if (ingredientList.includes("Vervain")) {
-      return "/goodEnding";
-    } else return "/final";
+      return "goodEnding";
+    } else return "final";
   };
 
   return (
