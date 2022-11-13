@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TheDualityOfChoice/static/css/main.515f8111.css",
-    "main.js": "/TheDualityOfChoice/static/js/main.0c7d5e6a.js",
-    "static/js/845.01558ca0.chunk.js": "/TheDualityOfChoice/static/js/845.01558ca0.chunk.js",
+    "main.css": "/TheDualityOfChoice/static/css/main.f94365d1.css",
+    "main.js": "/TheDualityOfChoice/static/js/main.8829d67c.js",
     "static/js/787.2a52b1e0.chunk.js": "/TheDualityOfChoice/static/js/787.2a52b1e0.chunk.js",
+    "static/media/tavern.png": "/TheDualityOfChoice/static/media/tavern.8ebfbfa7841e6f33de16.png",
     "static/media/backgroundTable.png": "/TheDualityOfChoice/static/media/backgroundTable.b0529c1b89ed71c69889.png",
+    "static/media/path.png": "/TheDualityOfChoice/static/media/path.b3a8945bb275d2285378.png",
     "static/media/bundo-kim-ur2zmbseUIA-unsplash.jpg": "/TheDualityOfChoice/static/media/bundo-kim-ur2zmbseUIA-unsplash.15770663d7eb378d2644.jpg",
     "static/media/henrique-ferreira-xTHJi7-tFWs-unsplash.jpg": "/TheDualityOfChoice/static/media/henrique-ferreira-xTHJi7-tFWs-unsplash.79589066f9d30b5a4f72.jpg",
-    "static/media/bensound-cute.mp3": "/TheDualityOfChoice/static/media/bensound-cute.298f1e07e2116d376a92.mp3",
     "static/media/caio-brigagao-lunardi-wf8EjFRMpAw-unsplash.jpg": "/TheDualityOfChoice/static/media/caio-brigagao-lunardi-wf8EjFRMpAw-unsplash.bee8f82496622c256ead.jpg",
     "static/media/dario-veronesi-_G4eAbP4SI4-unsplash.jpg": "/TheDualityOfChoice/static/media/dario-veronesi-_G4eAbP4SI4-unsplash.aa953470ee27467ff3d5.jpg",
     "static/media/nathan-riley-_ir1D49PRqM-unsplash.jpg": "/TheDualityOfChoice/static/media/nathan-riley-_ir1D49PRqM-unsplash.9fbd0c6e2503d46327da.jpg",
@@ -23,13 +23,12 @@
     "static/media/flask.png": "/TheDualityOfChoice/static/media/flask.fa2f3f5ca12ac1bd3b8a.png",
     "static/media/mak.png": "/TheDualityOfChoice/static/media/mak.ae22b246d2c042d9a405.png",
     "index.html": "/TheDualityOfChoice/index.html",
-    "main.515f8111.css.map": "/TheDualityOfChoice/static/css/main.515f8111.css.map",
-    "main.0c7d5e6a.js.map": "/TheDualityOfChoice/static/js/main.0c7d5e6a.js.map",
-    "845.01558ca0.chunk.js.map": "/TheDualityOfChoice/static/js/845.01558ca0.chunk.js.map",
+    "main.f94365d1.css.map": "/TheDualityOfChoice/static/css/main.f94365d1.css.map",
+    "main.8829d67c.js.map": "/TheDualityOfChoice/static/js/main.8829d67c.js.map",
     "787.2a52b1e0.chunk.js.map": "/TheDualityOfChoice/static/js/787.2a52b1e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.515f8111.css",
-    "static/js/main.0c7d5e6a.js"
+    "static/css/main.f94365d1.css",
+    "static/js/main.8829d67c.js"
   ]
 }
