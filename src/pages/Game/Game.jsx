@@ -2,7 +2,6 @@ import React from "react";
 import "../pages.scss";
 import "./game.scss";
 import { ClickableObject } from "../../components";
-import { Table } from "../images";
 import {
   Flask,
   GreenPowder,
@@ -17,7 +16,7 @@ import {
 } from "../../images_objects";
 import { Link } from "react-router-dom";
 
-const ingredientList = [];
+let ingredientList = [];
 const Game = () => {
   const chosenObject = (ingredient) => {
     ingredientList.push(ingredient);
@@ -86,7 +85,11 @@ const Game = () => {
         <img alt="flask" className="flask" src={Flask} />
         <div className="link_holder">
           <nav>
-            <Link className="linkToNextScreen" params={toString()} to={getEnding()}>
+            <Link
+              className="linkToNextScreen"
+              params={toString()}
+              to={getEnding()}
+            >
               Done!
             </Link>
           </nav>

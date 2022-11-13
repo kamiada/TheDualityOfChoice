@@ -13,7 +13,7 @@
   text-transform: none;
   font-size: 20px;
   margin-top: 20px;
-  margin-left: 54%;
+  margin-left: 10%;
   width: 83px;
   height: 40px;
   cursor: pointer;
@@ -21,6 +21,7 @@
   font-size: 60px;
   background-color: transparent;
   color: black;
+  width: fit-content;
 }
 .sceneImageHolder {
   max-width: 670px;
@@ -68,7 +69,20 @@
 .container_menu {
   display: flex;
   flex-direction: column;
+  text-align: center;
+  padding-top: 20%;
 }
 .container_game_left_column {
   width: fit-content;
+}
+.title {
+  font-family: "Comforter", cursive;
+  font-size: 50px;
+}
+.nav_menu {
+  font-family: "Quintessential", cursive !important;
+  font-size: 40px;
+  a {
+    text-decoration: none;
+  }
 }

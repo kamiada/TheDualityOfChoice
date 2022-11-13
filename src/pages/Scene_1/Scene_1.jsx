@@ -120,6 +120,7 @@ const Scene_1 = () => {
       return Tavern;
     }
     if (player_choice === "3b" && id === 5) {
+      console.log("here")
       return Path;
     }
     return VeronaBridge;
