@@ -84,6 +84,13 @@ const Game = () => {
           thisIs={Vervain}
         />
         <img alt="flask" className="flask" src={Flask} />
+        <div className="link_holder">
+          <nav>
+            <Link params={toString()} to={getEnding()}>
+              Done!
+            </Link>
+          </nav>
+        </div>
       </div>
     </>
   );
